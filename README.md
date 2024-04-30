@@ -8,6 +8,7 @@ Donde, se busca comparar la información que han dado con la información que se
 3. Alimentar a la inteligencia artificial de contenido dicho por los 3 candidatos, creando un lugar único de información y análisis.
 ## ¿Qué es único de nuestro proyecto?
 ![Captura de pantalla 2024-04-29 204912](https://github.com/proyecto01final/Proyecto01Final/assets/167474817/c502525b-b6df-40d1-b5f7-f6310c0d8311)
+Tomamos de inspiración la idea de que exista un lugar donde se encuentre la información de todos los candidatos, pero mejoramos su accesibilidad. Integrando tambien una IA que corrobore los datos y te ayude con la desinformación.
 ## ¿Quiénes son nuestro público?
 -![Captura de pantalla 2024-04-29 210036](https://github.com/proyecto01final/Proyecto01Final/assets/167474817/73b7fb95-ed65-47b0-8656-a9a0e5717c5d) 
 ### ¿Cómo sabemos esto? 
