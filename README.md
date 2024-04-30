@@ -27,17 +27,23 @@ _Jorge Maynez_: propone una agenda centrada en la justicia, la equidad y el desa
 ![Captura de pantalla 2024-04-30 131631](https://github.com/proyecto01final/Proyecto01Final/assets/167474817/31d6bd36-df85-4026-ab85-61335dba21ec)
 ### Elementos Visuales y Estilo:
 
-*Justificación de los colores: 
+* Justificación de los colores: 
 Azul Clásico: #007BFF - Este azul vibrante es ideal para transmitir confianza y profesionalismo, además de ser comúnmente asociado con la tecnología y la comunicación.
+
 Gris Neutro: #95A5A6 - Un gris claro que ofrece un fondo neutral y contemporáneo que no distrae, facilitando la legibilidad y la concentración en el contenido.
+
 Blanco: #FFFFFF - Esencial para garantizar claridad y limpieza en el diseño, proporcionando un excelente contraste con otros colores más oscuros o vivos.
+
 Verde Esmeralda: #2ECC71 - Este tono de verde es fresco y vibrante, asociado con la positividad y la innovación, puede ser usado para destacar características importantes o para botones de llamado a la acción.
+
 Amarillo Solar: #F1C40F - Un amarillo brillante y enérgico que puede ser utilizado para captar la atención sin ser agresivo, ideal para alertas o para destacar información clave.
+
 Negro Carbón: #34495E - Un tono de negro azulado, perfecto para textos y para transmitir seriedad y formalidad, mejorando la legibilidad y el enfoque en dispositivos de pantalla.
+
 Estos elementos ayudan a crear una identidad visual coherente que resuena con la audiencia objetivo, facilitando el reconocimiento y la confianza en la plataforma.
-*Interacción y Funcionalidad:
+* Interacción y Funcionalidad:
 Buscamos garantizar una experiencia de usuario fluida y accesible.
-*Juventud prioritaria:
+* Juventud prioritaria:
 Se enfoca en la representación de la audiencia objetivo: jóvenes con acceso al menos a un medio de comunicación web.
 
 El compromiso del proyecto es que la plataforma sea relevante y accesible para esta audiencia.
