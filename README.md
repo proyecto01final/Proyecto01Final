@@ -1,4 +1,4 @@
-# CandidaText 
+# CandidaText: Mantente informadx
 ## ¿Qué somos?https://github.com/proyecto01final/Proyecto01Final/blob/main/README.md
 Es una inteligencia artificial especializada en otorgar información audiovisual por parte de los tres candidatos a la presidencia de México.
 Donde, se busca comparar la información que han dado con la información que se tiene en la DATA. De esta forma, la población puede conocer y comprobar las propuestas y palabras de cada candidato.
