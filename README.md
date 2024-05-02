@@ -1,5 +1,5 @@
 # CandidaText: Mantente informadx
-## ¿Qué somos?
+## ¿Qué es?
 Es una inteligencia artificial especializada en otorgar información audiovisual por parte de los tres candidatos a la presidencia de México.
 Donde, se busca comparar la información que han dado con la información que se tiene en la DATA. De esta forma, la población puede conocer y comprobar las propuestas y palabras de cada candidato.
 ## Nuestros objetivos principales 
@@ -16,7 +16,7 @@ Tras la encuesta publicada por el Instituto Nacional Electoral (INE), el padrón
 Siendo los jóvenes, el sector de la población que representa la mayoría de registros. Con 26.2 millones de jóvenes de entre 18 y 29 años de edad que se encuentran listos para ir a votar. 
 Esta información nos lleva a enfocar nuestro proyecto de humanidades digitales hacía la población que se encuentre en este rango de edad. Al ser la mayoría,  y los que están más expuestos a encontrar información por medio de redes sociales, es necesario que se les otorgue una herramienta como CandidaText para ayudarles en su decisión al momento de votar.
 ### Para más info de este tema: https://www.ine.mx/credencial/estadisticas-lista-nominal-padron-electoral/
-## ¿Que información podrias encontrar en nuestra pagína? 
+## ¿Qué información podras encontrar en nuestra pagína? 
 * Perfiles de propuestas de los 3 candidatos
 
 _Xochitl_: propone un modelo de desarrollo enfocado en la inclusión y el respeto a la diversidad cultural y económica de México. Entre sus propuestas más relevantes destacan la reforma al sistema de justicia para asegurar su independencia y eficiencia, el empoderamiento económico de comunidades indígenas y afromexicanas a través de fondos de capital y crédito, y la expansión significativa de la infraestructura educativa y tecnológica para preparar a México para los desafíos del futuro.
